@@ -1,0 +1,20 @@
+.meme{
+    height: 175px;
+    width: 175px;
+    position: relative;
+}
+
+.meme .topText{
+    position: absolute;
+    top: 0px;
+}
+
+.meme .bottomText{
+    position: absolute;
+    bottom: 0px;
+}
+
+img{
+    height: 175px;
+    width: 175px;
+}
